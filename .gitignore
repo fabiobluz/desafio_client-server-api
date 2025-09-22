@@ -1,0 +1,24 @@
+# Compiled binaries
+/bin/
+/out/
+/build/
+/dist/
+
+# Vendor folder
+/vendor/
+
+# Logs e temporários
+*.log
+*.tmp
+*.out
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Dependências baixadas
+go.sum
+
+# Test cache
+*.test
